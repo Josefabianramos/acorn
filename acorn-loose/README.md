@@ -1,4 +1,4 @@
-# Acorn loose parser
+L# Acorn loose parser
 
 An error-tolerant JavaScript parser written in JavaScript.
 
